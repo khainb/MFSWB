@@ -7,7 +7,7 @@ Details of the model architecture and experimental results can be found in our p
 ```
 @inproceedings{nguyen2025towards,
 	title={Towards Marginal Fairness Sliced Wasserstein Barycenter},
-	author={Anonymous},
+	author={Nguyen, Khai and Nguyen, Hai and Ho, Nhat},
 	booktitle={The Thirteenth International Conference on Learning Representations},
 	year={2025},
 	url={https://openreview.net/forum?id=NQqJPPCesd}
